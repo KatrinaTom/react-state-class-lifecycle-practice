@@ -19,3 +19,7 @@ $git checkout code-complete
 
 ## Resource
 https://reactjs.org/docs/state-and-lifecycle.html
+
+## Completed
+
+![Image of Completed Clock exercise](completed_clock.png)
